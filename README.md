@@ -1,4 +1,4 @@
 # Demo
 Learning Git from Shraddha Khapra Ma'am.
 <br>
-Author - Samar Soni
+Author - Samar Soni (Apna College)
