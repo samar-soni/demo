@@ -1,2 +1,3 @@
-# demo
-learning git from apna College
+# Demo
+Learning Git from Shraddha Khapra Ma'am.
+Author - Samar Soni
